@@ -1,4 +1,4 @@
-const Testone = () => {
+const Test1 = () => {
     return (
       <h1>holiwis</h1>
     );
